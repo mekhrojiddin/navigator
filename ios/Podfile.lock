@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - location (0.0.1):
+    - Flutter
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - yandex_mapkit (0.0.1):
+    - Flutter
+    - YandexMapsMobile (= 4.4.0-full)
+  - YandexMapsMobile (4.4.0-full)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - yandex_mapkit (from `.symlinks/plugins/yandex_mapkit/ios`)
+
+SPEC REPOS:
+  trunk:
+    - YandexMapsMobile
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  yandex_mapkit:
+    :path: ".symlinks/plugins/yandex_mapkit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  location: d5cf8598915965547c3f36761ae9cc4f4e87d22e
+  permission_handler_apple: 036b856153a2b1f61f21030ff725f3e6fece2b78
+  yandex_mapkit: 5ab063b9cb8ef57b40bb02bf3dec3ec324ef50c9
+  YandexMapsMobile: a76ddceccf2d78f9f1034d07a354810cd21ef21a
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.14.2
